@@ -3,7 +3,7 @@
 # Type="MYSQL"
 # HTTP="true"
 
-// $hostname_conexion = "localhost/orcl"; sdfgfhsafgsgsgdfhfshsaaa
+// $hostname_conexion = "localhost/orcl"; sdfgfhsafgsgsgdfhfshsaaaadasda
 $username_conexion = "sigiep1";
 $password_conexion = "123Marcelo";
 $oracle =  oci_connect($username_conexion, $password_conexion, $hostname_conexion, 'UTF8');
