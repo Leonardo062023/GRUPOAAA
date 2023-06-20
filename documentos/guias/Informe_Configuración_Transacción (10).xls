@@ -1,0 +1,38 @@
+ 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Configuración Almacen</title>
+</head>
+<body>
+<table width="100%" border="1" cellspacing="0" cellpadding="0">
+    <tr>
+        <th colspan="12" align="center"><strong>
+            <br/>&nbsp;
+            <br/>INSTITUCION EDUCATIVA EL EDEN             <br/>NIT : 810005241<br/>Carrera 5 4-04 Tel:            <br/>CONFIGURACIÓN ALMACEN-CONTABILIDAD
+            <br/>TIPO INTERFAZ-TRANSACCIÓN
+        </th>
+  </tr>
+  <tr>
+        <td rowspan="2" colspan="2" align="center"><strong>GRUPO</strong></td>
+        <td rowspan="2" colspan="2" align="center"><strong>TIPO MOVIMIENTO</strong></td>
+        <td rowspan="2" colspan="2" align="center"><strong>CUENTA DÉBITO</strong></td>
+        <td rowspan="2" colspan="2" align="center"><strong>CUENTA CRÉDITO</strong></td>
+        <td rowspan="2" colspan="2" align="center"><strong>CUENTA IVA</strong></td>
+        <td rowspan="2" colspan="2" align="center"><strong>CUENTA IMPOCONSUMO</strong></td>
+        <tr>
+        </tr>
+        </tr>
+
+           <tr>
+        <td  colspan="2" align="center">1164009 - Construcciones Y Edificaciones</td>
+        <td  colspan="2" align="center">Don - Entrada Por Donacion</td>
+        <td  colspan="2" align="center">110601 - Cajero</td>
+        <td  colspan="2" align="center">11100602 - Banagrario 418010001610 Recursos Propios</td>
+        <td  colspan="2" align="center"></td>
+        <td  colspan="2" align="center"></td>
+    </tr>
+            
+</table>
+</body>
+</html>
