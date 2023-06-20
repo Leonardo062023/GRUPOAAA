@@ -1,6 +1,6 @@
 <?php require_once('Conexion/conexion.php');
 require_once ('./Conexion/conexion.php');
-# session_start();
+# session_start();jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 $id = (($_GET["id"]));
   $sql = "SELECT    n.id_unico,
                     n.nombre,
