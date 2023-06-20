@@ -5,7 +5,7 @@
 
 $hostname_conexion = "localhost/orcl";
 $username_conexion = "sigiep1";
-$password_conexion = "123";
+$password_conexion = "123Marcelo";
 $oracle =  oci_connect($username_conexion, $password_conexion, $hostname_conexion, 'UTF8');
 
 // # FileName="Connection_php_mysql.htm"
