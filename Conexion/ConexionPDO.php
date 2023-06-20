@@ -9,7 +9,7 @@ class ConexionPDO
 	public $db_clav = "123"; // Clave de la base de datos
 
 	public $obj_resu; //Objeto que contiene el resultado
-
+	//Se realiza el primer piloto de GITHUB
 	/**********************************************
 	 Inicializacion de variable de la base de datos
 	 ***********************************************/
